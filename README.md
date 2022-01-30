@@ -1,16 +1,27 @@
-# phera_assignment
+## PHERA ASSIGNMENT - FLUTTER PIE CHART AND TABLE DEMO APP
 
-A new Flutter project.
+> The project is made using Flutter and it is an internship sample asignment providing by Phera.
 
-## Getting Started
+## How to Install and Run the Project
 
-This project is a starting point for a Flutter application.
+- Clone project in your repo.
+- Open project with Android Studio or VS Code (Whatevere IDE you use for Flutter).
+- Open terminal in that folder and type " flutter pub get "
+- Then type " flutter run lib/main.dart "
 
-A few resources to get you started if this is your first Flutter project:
+## Tools use for development ( Packages/Plugins )
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter SDK](https://flutter.dev)
+- [fl_chart](https://pub.dev/packages/fl_chart)
+- Android Studio | VS Code
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Detailed implementation
+
+<p align="justify" >The complete project is create using flutter. In this project user can enter value of expenditure amount of Caterer, Decorator, Photographer and then get output as FLUTTER TABLE and PIE CHART. Total of the amount also shown in the table in output page. I havee use Flutter built in Tables for showning data in table format. and I have used FL_Chart flutter plugin for showing pie chart. Project is creating keeping NULL Safety in mind. </p>
+
+## Project ScreenShots
+<div>
+<img src="1.png" width="300px" height="500px">
+ 
+<img src="2.png" width="300px" height="500px">
+</div>
